@@ -28,7 +28,8 @@ THEN the saved events persist
 ## Screenshot
 <img src="./DB9E5015-9E5C-40CD-9DFD-74FC2679A5E5_1_201_a.jpeg" alt="deployed website image">
 
-## Deployed link
+## Deployed Website link
+https://ahs456.github.io/week-5-work-day-schedular/
 
 ## License
 N/A
