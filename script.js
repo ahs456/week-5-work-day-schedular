@@ -17,11 +17,13 @@ $('#hour-16 .description').val(localStorage.getItem('hour-16'));
 $('#hour-17 .description').val(localStorage.getItem('hour-17'));
 
 
-
-
-$(function () {
-
+$(document).ready(function () {
+  $('.saveBtn').on('click', function () {
+    var value = $(this).siblings('.description').val();
+    var time = $(this).parent().attr('id');
+  });
 });
+
 
 
   // TODO: Add a listener for click events on the save button. This code should
